@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-      <h1>React Frontend</h1>
+      <div className='container'>
+         
+      </div>
     </>
   )
 }
